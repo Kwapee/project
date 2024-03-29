@@ -1,2 +1,2 @@
 THE BLOG
-All CSS and JAVA included in the HTML
+All CSS and JAVA included in the HTML File
